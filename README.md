@@ -11,3 +11,5 @@ I'm a:
 * Twilio Champion 🏆
 * Conference Addict 🎫
 * Developer Evangelist 🥑
+
+![Visitor Count](https://profile-counter.glitch.me/amykapernick/count.svg)
